@@ -1,26 +1,3 @@
-onnx_conv_sigmoid:œ
-&
-X
-WY"Conv*
-kernel_shape@@ 
-
-YZ"Sigmoid
-test-modelZ
-X
-
-
-
-
-Z
-W
-
-
-
-
-b
-Z
-
-
-
-
-B	
+version https://git-lfs.github.com/spec/v1
+oid sha256:744804d1a8924b492cee573988c0512ea85ff903ebe096a32f6b517c45c19c6c
+size 184

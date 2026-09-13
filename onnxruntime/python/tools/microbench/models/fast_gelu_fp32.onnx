@@ -1,20 +1,3 @@
-p2o:·
-+
-A
-B
-return_val"FastGelu:com.microsoft	fast_geluZ,
-A'
-%!
-batch
-	seq_len
-	inter_dimZ
-B
-
-	inter_dimb5
-
-return_val'
-%!
-batch
-	seq_len
-	inter_dimB
-com.microsoft
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cc769eb0cbed8e1e6ef0ce7ee623e477f96cc4e47c584b2cf743cd4930fdcee
+size 212

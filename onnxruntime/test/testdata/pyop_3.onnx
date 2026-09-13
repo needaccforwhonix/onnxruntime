@@ -1,30 +1,3 @@
-
-pyop_model:‹
-ç
-XY"PyOp*	
-A"1†*	
-B"2†*
-
-class_name"
-MyKernel_3†*
-input_types@†*
-module"mymodule†*
-output_types@†:pyop_kwarg_1
-ç
-YZ"PyOp*	
-A"2†*	
-B"1†*
-
-class_name"
-MyKernel_3†*
-input_types@†*
-module"mymodule†*
-output_types@†:pyop_kwarg_2multi_pyop_graphZ
-X
-
-
-b
-Z
-
-
-B
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8b81292458b17cf603f45fb2459fb882d7f757e880348386367ae1088caefe1
+size 369

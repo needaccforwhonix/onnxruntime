@@ -1,44 +1,3 @@
-	:Ä
-9
-A
-Bmatmul_output_int32MatMulInteger"MatMulInteger
-.
-a_scale
-b_scale
-multiplier	mul_right"Mul
-A
-matmul_output_int32matmul_output_floatcast"Cast*	
-to 
-E
-matmul_output_float
-
-multipliermul_bottom_output
-mul_bottom"Mul
-&
-mul_bottom_output
-biasYadd"AddDynamicQuantizeMatMul_fusionZ
-A
-
-
-M
-KZ
-B
-
-
-K
-NZ
-a_scale
-
-
-Z
-b_scale
-	
-CZ
-bias
-	
-Nb
-Y
-
-
-M
-NB
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3dca05d86f0bbc16cc822ba96e48950e5c79c9dbffba72ce8f26d3edcadd723
+size 461

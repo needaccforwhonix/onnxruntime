@@ -1,35 +1,3 @@
-p2o:þ
-f
-INPUT
-SKIP
-GAMMA
-BETA
-BIAS
-return_val"SkipLayerNormalization*
-epsilonoƒ: :com.microsoftskip_layer_normalizationZ2
-INPUT)
-'#
-batch
-	seq_len
-hidden_sizeZ1
-SKIP)
-'#
-batch
-	seq_len
-hidden_sizeZ
-GAMMA
-
-hidden_sizeZ
-BETA
-
-hidden_sizeZ
-BIAS
-
-hidden_sizeb5
-
-return_val'
-%!
-batch
-	seq_len
-	inter_dimB
-com.microsoft
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f128da4af54b780cc68624a155a48e55184a8230422709ffe63368482c3df8
+size 411

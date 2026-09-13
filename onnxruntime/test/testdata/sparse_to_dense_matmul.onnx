@@ -1,16 +1,3 @@
-dmitrism: 
-F
-sparse_A
-dense_Bdense_YSpMM"SparseToDenseMatMul:com.microsoftSpMMZ
-sparse_AB
-	
-	Z
-dense_B
-
-	
-	b
-dense_Y
-
-	
-	B
-com.microsoft
+version https://git-lfs.github.com/spec/v1
+oid sha256:21b96780feabd758269d7e25424d0e76a6ce9e87507007a6d04844434bb659e8
+size 194
